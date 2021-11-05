@@ -21,7 +21,7 @@ module.exports.test = function (parent) {
     // Export functions to Web UI
     obj.exports = 
     [
-      'onDesktopDisconnect',
+      'onDesktopDisconnect'
     //   'onDeviceRefreshEnd',
     //   'resizeContent',
     //   'historyData',
@@ -30,7 +30,7 @@ module.exports.test = function (parent) {
     
     obj.onDesktopDisconnect = function() //handle event
     {
-        obj.debug('ScheelingsTest', 'Desktop disconnected. Node id: ' + currentNode._id);
+        //obj.debug('ScheelingsTest', 'Desktop disconnected. Node id: ' + currentNode._id);
         alert('Good bye');
     }
     
