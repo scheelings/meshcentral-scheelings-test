@@ -1,0 +1,18 @@
+{
+    "name": "Test Plugin",
+    "shortName": "test",
+    "version": "0.0.1",
+    "author": "Danny Scheelings",
+    "description": "Test plugin. Show a message to user when disconnected from remote desktop.",
+    "hasAdminPanel": false,
+    "homepage": "https://github.com/scheelings/meshcentral-scheelings-test",
+    "changelogUrl": "https://raw.githubusercontent.com/scheelings/meshcentral-scheelings-test/master/changelog.md",
+    "configUrl": "https://raw.githubusercontent.com/scheelings/meshcentral-scheelings-test/master/config.json",
+    "downloadUrl": "https://github.com/scheelings/meshcentral-scheelings-test/archive/master.zip",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/scheelings/meshcentral-scheelings-test.git"
+    },
+    "versionHistoryUrl": "https://api.github.com/repos/scheelings/meshcentral-scheelings-test/tags",
+    "meshCentralCompat": ">0.4.3"
+  }
