@@ -8,7 +8,7 @@
     "homepage": "https://github.com/scheelings/meshcentral-scheelings-test",
     "changelogUrl": "https://raw.githubusercontent.com/scheelings/meshcentral-scheelings-test/master/changelog.md",
     "configUrl": "https://raw.githubusercontent.com/scheelings/meshcentral-scheelings-test/master/config.json",
-    "downloadUrl": "https://github.com/scheelings/meshcentral-scheelings-test/archive/master.zip",
+    "downloadUrl": "https://github.com/scheelings/meshcentral-scheelings-test/archive/refs/heads/main.zip",
     "repository": {
       "type": "git",
       "url": "https://github.com/scheelings/meshcentral-scheelings-test.git"
